@@ -1,4 +1,5 @@
-# This is the repository for the paper "Cotton Leaf Disease (CLD) Classification Using Multihead External Attention Vision Transformer" 
+# Cotton Leaf Disease (CLD) Classification Using Multihead External Attention Vision Transformer
+### This repository contains the source code of the paper titled "Cotton Leaf Disease (CLD) Classification Using Multihead External Attention Vision Transformer"
 You can find the paper [here](10.1109/ICCIT64611.2024.11022519)
 
 ![Workflow](https://github.com/meftahuljannat19/MEA-ViT/blob/main/MEA-ViT%20workflow.png)
